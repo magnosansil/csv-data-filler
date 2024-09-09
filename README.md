@@ -15,8 +15,8 @@ This Node.js and TypeScript program reads data from two CSV files. It uses the f
 
 1. Clone the repository:
 
-`git clone https://github.com/magnosansil/csv-data-filler.git
-cd csv-data-filler `
+`git clone https://github.com/magnosansil/csv-data-filler.git`
+`cd csv-data-filler`
 
 
 2. Install the dependencies:
@@ -26,8 +26,8 @@ cd csv-data-filler `
 
 3. Create a .env file in the root directory with the following content:
 
-`PATH_FILE_1='./path/to/your/first-file.csv'
-PATH_FILE_2='./path/to/your/second-file.csv'`
+`PATH_FILE_1='./path/to/your/first-file.csv'`
+`PATH_FILE_2='./path/to/your/second-file.csv'`
 
 Replace './path/to/your/first-file.csv' and './path/to/your/second-file.csv' with the actual paths to your CSV files.
 
