@@ -36,6 +36,6 @@ Replace './path/to/your/first-file.csv' and './path/to/your/second-file.csv' wit
 
 To run the program and fill the data, use the following command:
 
-`npm  run  start`
+`ts-node index.ts`
 
 The  program  will  read  the  files  specified  in  the  .env  file,  process  the  data,  and  write  the  results  to  ./result.csv.
